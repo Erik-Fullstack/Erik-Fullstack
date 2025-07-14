@@ -9,7 +9,7 @@
 
 <h3 align="left">My current skills:</h3>
 
-###
+---
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="55" alt="typescript logo"  />
@@ -43,7 +43,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-###
+---
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
