@@ -8,6 +8,7 @@
 </div>
 
 <h3 align="left">My current skills:</h3>
+
 ###
 
 <div align="left">
@@ -41,6 +42,7 @@
 </div>
 
 <h3 align="left">Connect with me:</h3>
+
 ###
 
 <div align="left">
