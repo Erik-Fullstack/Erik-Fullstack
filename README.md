@@ -1,9 +1,10 @@
 <h2 align="center">Hello 👋! I am Erik, a currently enrolled Fullstack JavaScript student @ Chas Academy</h2>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Erik-Fullstack&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 <h2>My current skills:</h2>
 
 ###
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Erik-Fullstack&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="55" alt="typescript logo"  />
   <img width="12" />
