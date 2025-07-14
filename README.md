@@ -1,6 +1,6 @@
 <h2 align="center">Hello 👋! I am Erik, a currently enrolled Fullstack JavaScript student @ Chas Academy</h2>
 
-<h3></h3>
+<hr style="border: none; border-top: 1px solid #444; margin: 30px 0;" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Erik-Fullstack&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
@@ -9,7 +9,7 @@
 
 <h3 align="left">My current skills:</h3>
 
-<h3></h3>
+<hr style="border: none; border-top: 1px solid #444; margin: 30px 0;" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="55" alt="typescript logo"  />
@@ -43,7 +43,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<h3></h3>
+<hr style="border: none; border-top: 1px solid #444; margin: 30px 0;" />
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
