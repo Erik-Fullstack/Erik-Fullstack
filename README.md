@@ -51,7 +51,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Erik-Fullstack/Erik-Fullstack/output/snake.svg" alt="Snake animation" />
-
-###
