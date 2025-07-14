@@ -1,7 +1,7 @@
 <h1 align="center">Hello and welcome to my github.</h1>
 <h3 align="center">I'm Erik, a currently enrolled Fullstack JS student @ Chas Academy.</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erik-fullstack&show_icons=true&locale=en&layout=compact" alt="erik-fullstack" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erik-fullstack&show_icons=true&locale=en&layout=compact" alt="erik-fullstack" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erik-fullstack&show_icons=true&locale=en" alt="erik-fullstack" /></p>
 
 <h3 align="left">My current skills:</h3>
