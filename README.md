@@ -50,6 +50,5 @@
   </a>
 </div>
 
-<h3></h3>
 
-<br clear="both">
+![Snake animation](https://github.com/erik-fullstack/erik-fullstack/blob/output/github-contribution-grid-snake.svg)
